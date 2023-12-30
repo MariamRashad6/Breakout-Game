@@ -2,6 +2,10 @@
 
 This is a classic Breakout game implemented in Haskell, where the player controls a paddle to bounce the ball and hit the blocks. The objective is to break all the blocks on the screen by hitting them with the ball. The player starts with three lives, and each time the ball hits the bottom wall, the player loses a life. If the player loses all three lives, the game is over. The player can earn points by hitting the blocks, and if the score reaches 200, the player wins the game.
 
+![Game](breakout game.png)
+```
+
+
 ## Installation
 
 To run the game, you need to have Haskell and the Gloss library installed on your system.
